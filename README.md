@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
-Author - Shiv Nandan Kumar
+Author - Shiv Nandan Kumar(Ies College)
 
